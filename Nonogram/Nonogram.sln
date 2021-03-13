@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27428.2015
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Nonogram", "Nonogram\Nonogram.vcxproj", "{CF45E6A0-76A0-4FDD-B838-D5E3B1964923}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Nonogram-tests", "Nonogram-tests\Nonogram-tests.vcxproj", "{1E5599EE-A585-4992-904D-4646EE3A1CEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{CF45E6A0-76A0-4FDD-B838-D5E3B1964923}.Release|x64.Build.0 = Release|x64
 		{CF45E6A0-76A0-4FDD-B838-D5E3B1964923}.Release|x86.ActiveCfg = Release|Win32
 		{CF45E6A0-76A0-4FDD-B838-D5E3B1964923}.Release|x86.Build.0 = Release|Win32
+		{1E5599EE-A585-4992-904D-4646EE3A1CEA}.Debug|x64.ActiveCfg = Debug|x64
+		{1E5599EE-A585-4992-904D-4646EE3A1CEA}.Debug|x64.Build.0 = Debug|x64
+		{1E5599EE-A585-4992-904D-4646EE3A1CEA}.Debug|x86.ActiveCfg = Debug|Win32
+		{1E5599EE-A585-4992-904D-4646EE3A1CEA}.Debug|x86.Build.0 = Debug|Win32
+		{1E5599EE-A585-4992-904D-4646EE3A1CEA}.Release|x64.ActiveCfg = Release|x64
+		{1E5599EE-A585-4992-904D-4646EE3A1CEA}.Release|x64.Build.0 = Release|x64
+		{1E5599EE-A585-4992-904D-4646EE3A1CEA}.Release|x86.ActiveCfg = Release|Win32
+		{1E5599EE-A585-4992-904D-4646EE3A1CEA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
