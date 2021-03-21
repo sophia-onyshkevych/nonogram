@@ -1,1 +1,0 @@
-These were taken from the `qnonograms` program source's `examples` directory.  None had explicit copyright or license information, so I assumed they were covered by the same copyright and license as the rest of `qnonograms`.
